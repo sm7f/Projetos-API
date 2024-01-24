@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* styles/globals.css */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background: #c1b2fd;
+
+}
+/* styles/globals.css */
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: auto;
+  width: 100%;
+  background-color: #ffffff; /* Adapte a cor de fundo conforme necessário */
+  padding: 10px; /* Adapte o preenchimento conforme necessário */
+  text-align: center; /* Ajuste o alinhamento conforme necessário */
+}
+
+/* Adicione outros estilos globais conforme necessário */
+
+
